@@ -1,0 +1,26 @@
+{
+    "items": [
+      {
+        "name": "Cheesburger",
+        "image": "/images/cheese.jpg",
+        "desc":
+          "Cheesburger",
+        "price": 110,
+        "id": "001"
+      },
+      {
+        "name": "Chicken burger",
+        "image": "/images/chicken.jpg",
+        "desc": "Chicken burger",
+        "price": 150,
+        "id": "002"
+      },
+      {
+        "name": "Hamburger",
+        "image": "/images/double.jpg",
+        "desc": "Hamburger",
+        "price": 200,
+        "id": "003"
+      }
+    ]
+  }
